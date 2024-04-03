@@ -1,0 +1,144 @@
+A/B testing
+A statistical testing approach to determine which of two systems or components performs better.
+
+abnormal end
+The unintended termination of the execution of a component or system prior to completion.
+
+abuse case
+A use case in which some actors with malicious intent are causing harm to the system or to other actors.
+
+Balint
+Balint Balazs is a 28 years old programmer, who likes to play the guitar in his spare time.
+
+acceptance criteria
+The criteria that a component or system must satisfy in order to be accepted by a user, customer, or other authorized entity.
+
+acceptance test-driven development
+A collaboration-based test-first approach that defines acceptance tests in the stakeholders' domain language.
+
+acceptance testing
+A test level that focuses on determining whether to accept the system.
+
+accessibility
+The degree to which a component or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
+
+account harvesting
+The process of obtaining user account information based on trial and error with the intention of using that information in a security attack.
+
+accountability
+The degree to which the actions of an entity can be traced uniquely to that entity.
+
+actual result
+The behavior produced/observed when a component or system is tested.
+
+ad hoc review
+A review technique performed informally without a structured process.
+
+ad hoc testing
+Informal testing performed without test analysis and test design.
+
+adaptability
+The degree to which a component or system can be adapted for different or evolving hardware, software or other operational or usage environments.
+
+adversarial example
+An input to an ML model created by applying small perturbations to a working example that results in the model outputting an incorrect result with high confidence.
+
+adversarial testing
+A test technique based on the attempted creation and execution of adversarial examples to identify defects in an ML model.
+
+Agile Manifesto
+A statement on the values that underpin Agile software development. The values are: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, responding to change over following a plan.
+
+Agile software development
+A group of software development methodologies based on iterative incremental development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+
+Agile test leader
+A leadership role that serves agile teams, championing testing and quality at the organizational level.
+
+Agile test team leader
+A role that is responsible for maintaining solution quality within an agile delivery team.
+
+alpha testing
+A type of acceptance testing performed in the developer's test environment by roles outside the development organization.
+
+analytical test strategy
+A test strategy whereby the test team analyzes the test basis to identify the test conditions to cover.
+
+analyzability
+The degree to which an assessment can be made for a component or system of either the impact of one or more intended changes, the diagnosis of deficiencies or causes of failures, or the identification of parts to be modified.
+
+anomaly
+A condition that deviates from expectation.
+
+anti-malware
+Software that is used to detect and inhibit malware.
+
+API testing
+Testing performed by submitting requests to the test object using its application programming interface.
+
+application programming interface
+A type of interface in which the components or systems involved exchange information in a defined formal structure.
+
+appropriateness recognizability
+The degree to which users can recognize whether a component or system is appropriate for their needs.
+
+atomic condition
+A condition that does not contain logical operators.
+
+attack vector
+A path or means by which an attacker can gain access to a system for malicious purposes.
+
+attacker
+A person or process that attempts to access data, functions or other restricted areas of the system without authorization, potentially with malicious intent.
+
+audio testing
+Testing to determine if the game music and sound effects will engage the user in the game and enhance the game play.
+
+audit
+An independent examination of a work product or process performed by a third party to assess whether it complies with specifications, standards, contractual agreements, or other criteria.
+
+authentication
+A procedure determining whether a person or a process is, in fact, who or what it is declared to be.
+
+authenticity
+The degree to which the identity of a subject or resource can be proved to be the one claimed.
+
+authorization
+Permission given to a user or process to access resources.
+
+automation code defect density
+Defect density of a component of the test automation code.
+
+automotive safety integrity level
+One of four levels that specify the item's or element's necessary requirements of ISO 26262 and safety measures to avoid an unreasonable residual risk.
+
+automotive SPICE
+A process reference model and an associated process assessment model in the automotive industry.
+
+availability
+The degree to which a component or system is operational and accessible when required for use.
+
+back-to-back testing
+Testing to compare two or more variants of a test item or a simulation model of the same test item by executing the same test cases on all variants and comparing the results.
+
+behavior-driven development
+A collaborative approach to development in which the team is focusing on delivering expected behavior of a component or system for the customer, which forms the basis for testing.
+
+beta testing
+A type of acceptance testing performed at an external site to the developer's test environment by roles outside the development organization.
+
+black-box test technique
+A test technique based on an analysis of the specification of a component or system.
+
+black-box testing
+Testing based on an analysis of the specification of the component or system.
+
+botnet
+A network of compromised computers, called bots or robots, which is controlled by a third party and used to transmit malware or spam, or to launch attacks.
+
+boundary value
+A minimum or maximum value of an ordered equivalence partition.
+
+boundary value analysis
+A black-box test technique in which test cases are designed based on boundary values.
+
